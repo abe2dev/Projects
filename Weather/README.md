@@ -1,0 +1,1 @@
+--> Weather application using react and the open weather API with locations that autocomplete to display the weather for anywhere in the world.
